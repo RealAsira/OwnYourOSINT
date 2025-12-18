@@ -11,3 +11,16 @@ I've come a long way since high school. I've even been invited to talk on OSINT 
 As time goes on and I learn more, I may add to this repository, so feel free to follow it. If you'd like to use any of the resources here, please cite your source and link it back to me. I'd also appreciate it if you dropped a donation to my [BuyMeACoffee](https://buymeacoffee.com/realasira) if you really appreciate the resources I've provided.
 
 Thank you, and good luck out there!
+
+
+## Credit
+
+https://github.com/RealAsira/
+- Own Your OSINT.pdf
+- Privacy Audit Worksheet.pdf
+- Privacy Checklist Worksheet.pdf
+
+https://github.com/bvdalling/
+- Intro to Mobile Forensics.pdf
+
+You can add your own resources by opening a pull request. Make sure to include your info here for credit!
